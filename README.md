@@ -22,7 +22,7 @@ In this small project I tested this for noise-cancelling headphones in the UK.
 
 ## Results (23 Nov 2026)
 
-![dashboard](dashboard.png)
+![dashboard](images/dashboard.png)
 
 ### Which brands does the AI recommend?
 
